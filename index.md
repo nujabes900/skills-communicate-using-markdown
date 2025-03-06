@@ -6,3 +6,5 @@
 ###### My sixth header
 
 ##### Created, practiced, and experimented with headers
+
+![Image of a vault boy giving a thumbs up](https://upload.wikimedia.org/wikipedia/en/6/61/Vault_Boy_artwork.png)
